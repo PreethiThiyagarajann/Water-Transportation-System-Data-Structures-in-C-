@@ -1,0 +1,1152 @@
+Script started on Thu Oct 10 10:11:01 2019
+[?1034hbash-3.2$ exit./mini [3Pexit./mini [1Pscript[1Pclearat typescript [C[C[C[C[C[C[C[C[C[C[9Pscript[1Pclear./mini [2Pclear./mini [2Pclear./mini gcc mini.c -o mini[C[C[C[C[C[C[C[C[C[C[11P./mini gcc mini.c -o mini
+bash-3.2$ gcc mini.c -o mini[C[C[C[C[C[C[C[C[C[Cexit[K./mini [3Pexit./mini 
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 1
+
+----REGISTER----
+
+Enter user name(0-quit): ram
+
+Enter your Name: ramarajan
+
+Enter new password: 123
+
+Re-enter password: 123
+
+Enter Email Id:ramrajanoloursattai@^[[D                coloursattai@gmail.com
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select location(0-8): 3 4 3
+
+Enter phone Number : 9877626713
+
+Enter water storage capacity: 1000
+
+Register Successfully!!!!
+Wait for admin verification...
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 1
+
+----REGISTER----
+
+Enter user name(0-quit): rana
+
+Enter your Name: ranahas   daguopa   pati
+
+Enter new password: 123
+
+Re-enter password: 123
+
+Enter Email Id:ranaba  onehitwonder@gmail.com
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select location(0-8): 7
+
+Enter phone Number : 987623131
+
+Enter water storage capacity: 500
+
+Register Successfully!!!!
+Wait for admin verification...
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 1
+
+----REGISTER----
+
+Enter user name(0-quit): siva
+
+Enter your Name: sivasamy
+
+Enter new password: 123
+
+Re-enter password: 123
+
+Enter Email Id:asuranbb100days@gmail.com
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select location(0-8): 5 2 61 
+
+Enter phone Number : 9878763424
+
+Enter water storage capacity: 5000
+
+Register Successfully!!!!
+Wait for admin verification...
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: admin
+
+Enter password: admin
+
+Login Successful......
+
+-----Admin-----
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 1
+
+Name: ramarajan 		Phone No.: 9877626713
+Email Id: ramrajancoloursattai@gmail.com	Location: Nungambakkam	Storage :1000
+1-Accept	0-Reject : 1
+
+Name: ranadagupati 		Phone No.: 987623131
+Email Id: ranaonehitwonder@gmail.com	Location: Mogappair	Storage :500
+1-Accept	0-Reject : 1
+
+Name: sivasamy 		Phone No.: 9878763424
+Email Id: asuranbb100days@gmail.com	Location: Royapettah	Storage :5000
+1-Accept	0-Reject : 0
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: ram
+
+Enter password: 123
+
+Login Successful......
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : rana
+
+------Login------
+
+Enter username: 
+Enter password: 123
+
+Login Successful......
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: siva
+
+Your Registration has been rejected by the admin... try registering again...
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 1
+
+----REGISTER----
+
+Enter user name(0-quit): sivasam   
+
+Enter your Name: sivasamy
+
+Enter new password: 123
+
+Re-enter password: 123
+
+Enter Email Id:asuranbb100days@gmail.com
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select location(0-8): 3
+
+Enter phone Number : 2873648723
+
+Enter water storage capacity: 1000
+
+Register Successfully!!!!
+Wait for admin verification...
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: admin
+
+Enter password: admin
+
+Login Successful......
+
+-----Admin-----
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 1
+
+Name: sivasamy 		Phone No.: 2873648723
+Email Id: asuranbb100days@gmail.com	Location: Nungambakkam	Storage :1000
+1-Accept	0-Reject : 1
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 0
+1
+
+Enter distance between them: 4
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 0
+78 
+
+Enter distance between them: 8
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 1
+2
+
+Enter distance between them: 8
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 1
+7
+
+Enter distance between them: 11
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 2
+3
+
+Enter distance between them: 7
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 2
+8
+
+Enter distance between them: 2
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 2
+5
+
+Enter distance between them: 3 4
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 3
+4
+
+Enter distance between them: 9
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 3
+5
+
+Enter distance between them: 14
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 4
+5
+
+Enter distance between them: 10
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 5
+6
+
+Enter distance between them: 2
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 6
+7
+
+Enter distance between them: 1
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 6
+8
+
+Enter distance between them: 6
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 2
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select starting vertex and ending vertex: 7
+8
+
+Enter distance between them: 7
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 3
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: ram
+
+Enter password: 123
+
+Login Successful......
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 1
+
+-----Booking-----
+Enter Demand(in ltrs.): 10000
+
+Demand cannot be more than your storage capacity...
+Re-enter Demand(in ltrs.): 100
+
+Your booking is yet to be confirmed... 
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 2
+
+
+-----Booking Status-----
+ Your booking is yet to be confirmed...
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: rana
+
+Enter password: 123
+
+Login Successful......
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 1
+
+-----Booking-----
+Enter Demand(in ltrs.): 90
+
+Your booking is yet to be confirmed... 
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: siva
+
+Enter password: 123
+
+Login Successful......
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 1
+
+-----Booking-----
+Enter Demand(in ltrs.): 48221     200
+
+Your booking is yet to be confirmed... 
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: admin
+
+Enter password: admin
+
+Login Successful......
+
+-----Admin-----
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 3
+
+no: ram,book: 1
+Name: ramarajan 		Phone No.: 9877626713
+Email Id: ramrajancoloursattai@gmail.com	Location: Nungambakkam	Storage :1000
+Demand: 100
+1-Confirm	0-Dismiss : 1
+
+Your booking has been confirmed... 
+
+no: rana,book: 1
+Name: ranadagupati 		Phone No.: 987623131
+Email Id: ranaonehitwonder@gmail.com	Location: Mogappair	Storage :500
+Demand: 90
+1-Confirm	0-Dismiss : 1
+
+Your booking has been confirmed... 
+
+no: siva,book: 1
+Name: sivasamy 		Phone No.: 2873648723
+Email Id: asuranbb100days@gmail.com	Location: Nungambakkam	Storage :1000
+Demand: 200
+1-Confirm	0-Dismiss : 0
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: ram
+
+Enter password: 123
+
+Login Successful......
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 2
+
+
+-----Booking Status-----
+ 
+Your booking has been confirmed... 
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 3
+
+-----Bill-----
+
+Distance from Adyar to Nungambakkam : 19
+Demand : 100
+Transportation charges : 190
+Water charges: 500
+Additional Charges: 34.50
+Total Cost : 724.50
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: ra  rana
+
+Enter password: 123
+
+Login Successful......
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 2
+
+
+-----Booking Status-----
+ 
+Your booking has been confirmed... 
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 3
+
+-----Bill-----
+
+Distance from Adyar to Mogappair : 8
+Demand : 90
+Transportation charges : 80
+Water charges: 450
+Additional Charges: 26.50
+Total Cost : 556.50
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: siva
+
+Enter password: 123
+
+Login Successful......
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 3 2
+
+
+-----Booking Status-----
+ 
+Your booking has been cancelled due to unavailibility of resources...
+sorry for the inconvinience. 
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 3
+
+No current bookings!!!!
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: prasa
+
+Enter valid user name...
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 1
+
+----REGISTER----
+
+Enter user name(0-quit): ra  sam
+
+Enter your Name: 123
+
+Enter new password: 123
+
+Re-enter password: 123
+
+Enter Email Id:sam@yahoo
+
+	0 - Adyar
+	1 - kilpauk
+	2 - Chetpet
+	3 - Nungambakkam
+	4 - Kodambakkam
+	5 - Mylapore
+	6 - Royapettah
+	7 - Mogappair
+	8 - Parrys
+Select location(0-8): 10
+
+Enter phone Number : 38124243
+
+Enter water storage capacity: 4000
+
+Register Successfully!!!!
+Wait for admin verification...
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: admin
+
+Enter password: admin
+
+Login Successful......
+
+-----Admin-----
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 1
+
+Name: 123 		Phone No.: 38124243
+Email Id: sam@yahoo	Location: 	Storage :4000
+1-Accept	0-Reject : 1
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: a sam
+
+Enter password: 123
+
+Login Successful......
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 1
+
+-----Booking-----
+Enter Demand(in ltrs.): 60
+
+Your booking is yet to be confirmed... 
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : a 2
+
+------Login------
+
+Enter username: admin
+
+Enter password: admin
+
+Login Successful......
+
+-----Admin-----
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 3
+
+no: sam,book: 1
+Name: 123 		Phone No.: 38124243
+Email Id: sam@yahoo	Location: 	Storage :4000
+Demand: 60
+1-Confirm	0-Dismiss : 1
+
+Your booking has been confirmed... 
+
+MENU
+1. Process Registrations
+2. Add Edges
+3. Confirm booking
+4. Exit
+Enter your choice : 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 2
+
+------Login------
+
+Enter username: sam
+
+Enter password: 123
+
+Login Successful......
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 2
+
+
+-----Booking Status-----
+ 
+Your booking has been confirmed... 
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 3
+
+-----Bill-----
+
+Distance from Adyar to  : 233918880
+Demand : 60
+Transportation charges : -1955778496
+Water charges: 300
+Additional Charges: -97788908.80
+Total Cost : -2053567104.00
+
+------User Menu------
+
+1. Book water
+2. View Booking Status
+3. View Bill
+4. Exit
+Enter your choice: 4
+
+
+------WATER MANAGEMENT TEM------
+
+1.Register
+2.Login
+3.Exit
+Enter your choice : 3
+bash-3.2$ exit
+exit
+
+Script done on Thu Oct 10 10:19:46 2019
